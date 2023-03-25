@@ -19,8 +19,8 @@ h1, p {
 #profile {
 	height: 250px;
 	width: 250px;
-
-	border-radius: 60%;
+	object-fit: cover;
+	border-radius: 50%;
 }
 
 /*SVGbackgrounds.com for svg bg*/
